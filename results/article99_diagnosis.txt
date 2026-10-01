@@ -1,0 +1,47 @@
+(reranked 34 candidates in 7.5s)
+
+=== DENSE (top 8) ===
+  1. Regulation (EU) 2024/1689 — Article 5: Prohibited AI practices
+  2. Regulation (EU) 2024/1689 — Article 101: Fines for providers of general-purpose AI models
+  3. Regulation (EU) 2024/1689 — Article 5: Prohibited AI practices
+  4. Regulation (EU) 2024/1689 — Recital (59)
+  5. Regulation (EU) 2024/1689 — Recital (28)
+  6. Regulation (EU) 2024/1689 — Article 60: Testing of high-risk AI systems in real world conditions outside AI regulatory sandboxes
+  7. Regulation (EU) 2024/1689 — Recital (61)
+  8. Regulation (EU) 2024/1689 — Recital (169)
+
+=== KEYWORD (top 8) ===
+  1. Regulation (EU) 2024/1689 — Recital (179)
+  2. Regulation (EU) 2024/1689 — Article 5: Prohibited AI practices
+  3. Regulation (EU) 2024/1689 — Article 100: Administrative fines on Union institutions, bodies, offices and agencies
+  4. Regulation (EU) 2024/1689 — Article 99: Penalties
+  5. Regulation (EU) 2024/1689 — Recital (33)
+  6. Regulation (EU) 2024/1689 — Article 101: Fines for providers of general-purpose AI models
+  7. Regulation (EU) 2024/1689 — Recital (29)
+  8. Regulation (EU) 2024/1689 — Article 5: Prohibited AI practices
+
+=== HYBRID (top 8) ===
+  1. Regulation (EU) 2024/1689 — Article 5: Prohibited AI practices
+  2. Regulation (EU) 2024/1689 — Article 101: Fines for providers of general-purpose AI models
+  3. Regulation (EU) 2024/1689 — Article 5: Prohibited AI practices
+  4. Regulation (EU) 2024/1689 — Recital (179)
+  5. Regulation (EU) 2024/1689 — Recital (28)
+  6. Regulation (EU) 2024/1689 — Recital (43)
+  7. Regulation (EU) 2024/1689 — Article 100: Administrative fines on Union institutions, bodies, offices and agencies
+  8. Regulation (EU) 2024/1689 — Recital (169)
+
+=== RERANK (top 8) ===
+  1. Regulation (EU) 2024/1689 — Article 99: Penalties  [0.999]
+  2. ai_omnibus_2026_1744.pdf, p.31-33  [0.927]
+  3. Regulation (EU) 2024/1689 — Article 5: Prohibited AI practices  [0.908]
+  4. Regulation (EU) 2024/1689 — Article 112: Evaluation and review  [0.903]
+  5. Regulation (EU) 2024/1689 — Article 100: Administrative fines on Union institutions, bodies, offices and agencies  [0.838]
+  6. Regulation (EU) 2024/1689 — Recital (43)  [0.593]
+  7. Regulation (EU) 2024/1689 — Article 5: Prohibited AI practices  [0.556]
+  8. Regulation (EU) 2024/1689 — Article 101: Fines for providers of general-purpose AI models  [0.458]
+
+=== Where does 'Article 99' rank? ===
+   dense: #231, #295   (out of 362)
+ keyword: #4, #18   (out of 323)
+  hybrid: #18, #32   (out of 84)
+  rerank: #1, #33   (out of 34)

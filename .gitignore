@@ -1,0 +1,12 @@
+chroma_db/
+__pycache__/
+.venv/
+*.pyc
+.DS_Store
+# Uncomment if your documents can't be published:
+# data/docs/*
+# !data/docs/.gitkeep
+
+data/docs_structured/
+data/docs_fixed/
+eval/smoke.jsonl

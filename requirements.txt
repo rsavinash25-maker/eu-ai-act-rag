@@ -1,0 +1,6 @@
+chromadb>=0.5
+pypdf>=4.0
+requests>=2.31
+streamlit>=1.35
+tiktoken>=0.7
+sentence-transformers>=3.0   # reranker (also enables EMBED_BACKEND=st)
